@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SHARMAJII0/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SHARMAJII0/LeetCode/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/SHARMAJII0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SHARMAJII0/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/SHARMAJII0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SHARMAJII0/LeetCode/tree/master/0027-remove-element) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/SHARMAJII0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
