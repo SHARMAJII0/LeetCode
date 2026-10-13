@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SHARMAJII0/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SHARMAJII0/LeetCode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/SHARMAJII0/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/SHARMAJII0/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SHARMAJII0/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/SHARMAJII0/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
