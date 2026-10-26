@@ -1,0 +1,16 @@
+class Solution {
+    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+        
+        ArrayList<Boolean> ans = new ArrayList<>();
+        int max = 0;
+
+        for(int c : candies){
+            max = Math.max(max,c);        
+        }
+
+        for(int c : candies){
+            ans.add(c + extraCandies >= max);        
+        }
+        return ans;
+    }
+}
