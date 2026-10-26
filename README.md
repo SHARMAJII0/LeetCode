@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SHARMAJII0/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/SHARMAJII0/LeetCode/tree/master/0169-majority-element) |
 | [0867-transpose-matrix](https://github.com/SHARMAJII0/LeetCode/tree/master/0867-transpose-matrix) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SHARMAJII0/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/SHARMAJII0/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
